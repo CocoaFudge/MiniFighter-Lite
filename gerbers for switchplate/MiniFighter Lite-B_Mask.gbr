@@ -1,0 +1,35 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.4)*%
+%TF.CreationDate,2022-06-27T13:40:26+01:00*%
+%TF.ProjectId,MiniFighter Lite,4d696e69-4669-4676-9874-6572204c6974,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Bot*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (6.0.4)) date 2022-06-27 13:40:26*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,3.200000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,M3.1*%
+X129540000Y-82000000D03*
+%TD*%
+%TO.C,M3.4*%
+X322580000Y-170180000D03*
+%TD*%
+%TO.C,M3.6*%
+X233680000Y-123190000D03*
+%TD*%
+%TO.C,M3.3*%
+X129540000Y-170180000D03*
+%TD*%
+%TO.C,M3.5*%
+X233680000Y-170180000D03*
+%TD*%
+%TO.C,M3.2*%
+X322580000Y-82000000D03*
+%TD*%
+M02*
