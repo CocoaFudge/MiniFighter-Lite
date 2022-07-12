@@ -8,6 +8,7 @@ Please credit if modifying the PCB. :)
 
 
 Parts needed :
+
 12 x MX Hotswap Sockets,
 12 x MX Switches,
 12 x Punk Workshop / Sinoarcade MX Keycaps, either 24 or 30mm works,
