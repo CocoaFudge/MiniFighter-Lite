@@ -10,12 +10,19 @@ Please credit if modifying the PCB. :)
 Parts needed :
 
 12 x MX Hotswap Sockets,
+
 12 x MX Switches,
+
 12 x Punk Workshop / Sinoarcade MX Keycaps, either 24 or 30mm works,
+
 01 x BOB-15100 / Treedix USB-C Breakout board,
+
 01 x MiniFighter Lite PCB,
+
 01 x Minifighter Lite Switchplate,
+
 01 x MiniFighter Lite Acrylic Switchplate (3mm),
+
 01 x Case enclosure,
 
 will add instructions and case design files. ignore the crack
