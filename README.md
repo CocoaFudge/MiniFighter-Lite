@@ -1,6 +1,8 @@
 # MiniFighter-Lite
 
 
+MAKE SURE TO USE THE FINAL FILES FOR ADOBE ILLUSTRATOR. THANKS!
+
 Free to modify, use, recreate.
 
 
