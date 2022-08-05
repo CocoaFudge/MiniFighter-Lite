@@ -11,7 +11,9 @@ Please credit if modifying the PCB. :)
 
 Parts needed :
 
-5X M6 X 14MM
+5X M6 X 14MM Screw, not countersunk,
+
+5X M6 Screw Bolts,
 
 12 x MX Hotswap Sockets,
 
