@@ -11,6 +11,8 @@ Please credit if modifying the PCB. :)
 
 Parts needed :
 
+5X M6 X 14MM
+
 12 x MX Hotswap Sockets,
 
 12 x MX Switches,
